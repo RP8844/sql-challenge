@@ -19,12 +19,6 @@ Create a table schema for each of the six CSV files with specific data types, pr
 
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/HwZKUc
 
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
--- Modify this code to update the DB schema diagram.
--- To reset the sample schema, replace everything with
--- two dots ('..' - without quotes).
-
 CREATE TABLE "DEPARTMENTS" (
     "Dept_No" varchar   NOT NULL,
     "Dept_Name" varchar   NOT NULL,
