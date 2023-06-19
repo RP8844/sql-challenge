@@ -18,7 +18,7 @@ After inspecting the CSVs, create an ERD using Quick Database Diagrams.
 ![QuickDBD-Free Diagram](https://github.com/RP8844/sql-challenge/assets/118138351/530bb332-f03d-4350-a36b-dede4851775f)
 
 # Data Engineering
-Create a table schema for each of the six CSV files with specific data types, primary keys, foreign keys, and constraints.
+Create a table schema for each of the six CSV files with specific data types, primary keys, foreign keys and constraints.
 
 
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
