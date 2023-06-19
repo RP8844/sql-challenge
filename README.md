@@ -16,7 +16,9 @@ Create a table schema for each of the six CSV files with specific data types, pr
 
 
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/HwZKUc
+
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 -- Modify this code to update the DB schema diagram.
