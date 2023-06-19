@@ -95,15 +95,15 @@ REFERENCES "EMPLOYEE" ("emp_no");
 
 2. List the first name, last name and hire date for employees who were hired in 1986.
 
-3. List the manager of each dept and their dept no, dept name, emp no, last name and first name.
+3. List the manager of each dept and their dept number, dept name, emp number, last name and first name.
 
-4. List the dept no for each employee along with that employee’s EE no, last name, first name and dept name.
+4. List the dept number for each employee along with that employee’s employee number, last name, first name and dept name.
 
 5. List first name, last name, and sex of each employee with first name Hercules and last name beginning with B.
 
-6. List each employee in the Sales department. Include EE NO, last name and first name.
+6. List each employee in the Sales department. Include employee number, last name and first name.
 
-7. List each employee in the Sales and Development depts & include their employee number, last name, first name and dept name.
+7. List each employee in the Sales and Development depts and include their employee number, last name, first name and dept name.
 
 8. List the frequency counts, in descending order, of all the employee last names (how many employees share each last name).
 
