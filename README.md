@@ -115,7 +115,7 @@ REFERENCES "EMPLOYEE" ("emp_no");
 
 # Resources: 
 1. Tutor: Sharon Colson
-2. 1 x ASK BCS assistant
-3. Module 9 in class activities
+2. 1 x ASK BCS Assistant
+3. Module 9 In Class Activities
 4. Class Instructor: Arooj A Qureshi
 5. TA Instructor: Abdo
