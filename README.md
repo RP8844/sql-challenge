@@ -113,3 +113,4 @@ REFERENCES "EMPLOYEE" ("emp_no");
 
 8. List the frequency counts, in descending order, of all the employee last names (how many employees share each last name).
 
+# Resources: Tutors: Sharon Colson, 1 x ASK BCS assistant, Module 9 in class activities, Class instructor, Arooj A Qureshi, TA Instructor: Abdo.
