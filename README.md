@@ -8,9 +8,9 @@ As a new data engineer, conduct a research project about the employees whom the 
 Design tables to hold the data from the CSV files, import the CSV files into a SQL database and answer questions about the data. 
 
 This entails:
-Data modeling
-Data engineering
-Data analysis
+-Data modeling
+-Data engineering
+-Data analysis
 
 # Data Modeling
 After inspecting the CSVs, create an ERD using Quick Database Diagrams.
