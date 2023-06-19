@@ -5,7 +5,12 @@ Module 9: SQL Challenge
 As a new data engineer, conduct a research project about the employees whom the company employed during the 1980s and 1990s. This is based on six CSV files from that time period.
 
 # Objective
-For this project, design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. This entails data modeling, data engineering and data analysis, respectively.
+Design tables to hold the data from the CSV files, import the CSV files into a SQL database and answer questions about the data. 
+
+This entails:
+Data modeling
+Data engineering
+Data analysis
 
 # Data Modeling
 After inspecting the CSVs, create an ERD using Quick Database Diagrams.
